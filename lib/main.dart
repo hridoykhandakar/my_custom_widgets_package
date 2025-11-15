@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:my_custom_widgets_package/features/file_upload/screen/file_upload_screen.dart';
 import 'package:my_custom_widgets_package/screens/step_form.dart';
 
 void main() {
@@ -10,6 +11,6 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(home: Scaffold(body: StepForm()));
+    return const MaterialApp(home: Scaffold(body: FileUploadScreen()));
   }
 }
