@@ -1,0 +1,20 @@
+{
+  "app_title": "Mi Aplicación",
+  "welcome": "Bienvenido",
+  "hello": "Hola {}",
+  "greeting": "Hola {name}, tienes {count} mensajes",
+  "login": "Iniciar sesión",
+  "logout": "Cerrar sesión",
+  "settings": "Configuración",
+  "language": "Idioma",
+  "profile": {
+    "title": "Perfil",
+    "edit": "Editar Perfil",
+    "save": "Guardar"
+  },
+  "items": {
+    "zero": "Sin elementos",
+    "one": "{} elemento",
+    "other": "{} elementos"
+  }
+}

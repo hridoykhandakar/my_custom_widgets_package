@@ -1,0 +1,20 @@
+{
+  "app_title": "My App",
+  "welcome": "Welcome",
+  "hello": "Hello {}",
+  "greeting": "Hello {name}, you have {count} messages",
+  "login": "Login",
+  "logout": "Logout",
+  "settings": "Settings",
+  "language": "Language",
+  "profile": {
+    "title": "Profile",
+    "edit": "Edit Profile",
+    "save": "Save"
+  },
+  "items": {
+    "zero": "No items",
+    "one": "{} item",
+    "other": "{} items"
+  }
+}
